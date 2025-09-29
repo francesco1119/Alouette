@@ -9,16 +9,10 @@ Alouette is a simple Python script that allows you to scrap all images from a we
 
 ## Installation
 
-1. **Install the wayback_machine_downloader_straw gem:**
-   ```bash
-   gem install wayback_machine_downloader_straw
-   ```
-
-2. **Clone this repository:**
-   ```bash
-   git clone https://github.com/francesco1119/Alouette.git
-   cd Alouette
-   ```
+**Install the wayback_machine_downloader_straw gem:**
+```bash
+gem install wayback_machine_downloader_straw
+```
 
 ## Usage
 
