@@ -1,4 +1,10 @@
 # Alouette
+
+![Python](https://img.shields.io/badge/python-3.x-blue.svg)
+![Ruby](https://img.shields.io/badge/ruby-required-red.svg)
+![License](https://img.shields.io/github/license/francesco1119/Alouette)
+![GitHub stars](https://img.shields.io/github/stars/francesco1119/Alouette)
+
 Alouette is a simple Python script that allows you to scrap all images from a website stored on the Wayback Machine.
 
 ## Prerequisites
