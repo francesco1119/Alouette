@@ -5,7 +5,7 @@ Alouette is a simple Python script that allows you to scrap all images from a we
 
 - Python 3.x
 - Ruby and RubyGems
-- `wayback_machine_downloader_straw` gem
+- [`wayback_machine_downloader_straw`](https://github.com/hartator/wayback-machine-downloader) gem
 
 ## Installation
 
